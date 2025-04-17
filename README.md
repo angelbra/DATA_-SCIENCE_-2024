@@ -1,4 +1,4 @@
-# DATA_-SCIENCE_-2024
+# Analys av priser för Tesla och Bitcoin (2014-2017)
 INLÄMINGS uppgifter 1
 
 Analys av priser för Tesla och Bitcoin (2014-2017)
