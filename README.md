@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/9c24a829-a007-4ced-9c9e-07193aaaa3e1)
 
 # Analys av priser för Tesla och Bitcoin (2014-2017)
 INLÄMINGS uppgifter 1
